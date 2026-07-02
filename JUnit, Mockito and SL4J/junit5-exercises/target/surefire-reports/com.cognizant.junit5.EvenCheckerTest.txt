@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.junit5.EvenCheckerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.139 s <<< FAILURE! - in com.cognizant.junit5.EvenCheckerTest
+testEvenNumbers{int}[3]  Time elapsed: 0.012 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.cognizant.junit5.EvenCheckerTest.testEvenNumbers(EvenCheckerTest.java:15)
+

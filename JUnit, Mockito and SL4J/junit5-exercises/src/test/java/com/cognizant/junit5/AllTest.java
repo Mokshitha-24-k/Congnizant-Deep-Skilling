@@ -1,0 +1,12 @@
+package com.cognizant.junit5;
+
+import org.junit.platform.suite.api.SelectClasses;
+import org.junit.platform.suite.api.Suite;
+
+@Suite
+@SelectClasses({
+        EvenCheckerTest.class
+})
+public class AllTests {
+
+}
