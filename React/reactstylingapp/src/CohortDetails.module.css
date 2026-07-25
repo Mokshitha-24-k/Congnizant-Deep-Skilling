@@ -1,0 +1,11 @@
+.container {
+  border: 2px solid darkblue;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  background-color: #f0f8ff;
+}
+
+.heading {
+  text-decoration: underline;
+}
